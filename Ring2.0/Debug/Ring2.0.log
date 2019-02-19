@@ -1,0 +1,22 @@
+﻿  Ring2.0.c
+  common.c
+  poly.c
+e:\vs2017\ring2.0\ring2.0\poly.c(413): warning C4013: “printf”未定义；假设外部返回 int
+  ring.c
+e:\vs2017\ring2.0\ring2.0\ring.c(122): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs2017\ring2.0\ring2.0\ring.c(203): warning C4090: “函数”: 不同的“const”限定符
+e:\vs2017\ring2.0\ring2.0\ring.c(272): warning C4267: “函数”: 从“size_t”转换到“uint8_t”，可能丢失数据
+e:\vs2017\ring2.0\ring2.0\ring.c(281): warning C4267: “函数”: 从“size_t”转换到“uint8_t”，可能丢失数据
+e:\vs2017\ring2.0\ring2.0\ring.c(518): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs2017\ring2.0\ring2.0\ring.c(523): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs2017\ring2.0\ring2.0\ring.c(526): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs2017\ring2.0\ring2.0\ring.c(531): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs2017\ring2.0\ring2.0\ring.c(542): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs2017\ring2.0\ring2.0\ring.c(635): warning C4101: “j”: 未引用的局部变量
+e:\vs2017\ring2.0\ring2.0\ring.c(721): warning C4018: “<”: 有符号/无符号不匹配
+  ring_test.c
+e:\vs2017\ring2.0\ring2.0\ring_test.c(16): warning C4013: “printf”未定义；假设外部返回 int
+e:\vs2017\ring2.0\ring2.0\ring_test.c(101): warning C4101: “k”: 未引用的局部变量
+  正在生成代码...
+aes.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+  Ring2.0.vcxproj -> E:\vs2017\Ring2.0\Debug\Ring2.0.exe
