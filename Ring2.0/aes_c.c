@@ -187,7 +187,7 @@ static void sub_bytes_inv(byte *a, int n) {
 }
 
 // Rotate the first four bytes of the input eight bits to the left
-static inline void rot_word(byte *a) {
+static void rot_word(byte *a) {
 	byte temp = a[0];
 	a[0] = a[1];
 	a[1] = a[2];
